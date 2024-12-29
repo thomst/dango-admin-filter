@@ -17,7 +17,7 @@ Welcome to django-admin-filter
    :alt: django: 2.2, 3.0, 3.1, 3.2
 
 .. _django-filter: https://github.com/carltongibson/django-filter
-.. _django-filter-docs: https://django-filter.readthedocs.io/en/master/
+.. _django-filter-docs: https://django-filter.readthedocs.io/en/stable/
 
 
 Description
